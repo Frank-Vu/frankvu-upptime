@@ -4,11 +4,9 @@ repo: frankvu-upptime # The name of this repository
 
 sites:
   - name: FrankVu
-    url: frankvu.site
-    method: GET
+    url: https://frankvu-personal-site.onrender.com/
   - name: Wedding Site
-    url: giang-jess.frankvu.site
-    method: GET
+    url: https://wedding-website-lphg.onrender.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
