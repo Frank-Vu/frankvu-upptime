@@ -4,10 +4,10 @@ repo: frankvu-upptime # The name of this repository
 
 sites:
   - name: FrankVu
-    url: https://www.frankvu.site
+    url: frankvu.site
     method: GET
   - name: Wedding Site
-    url: https://www.giang-jess.frankvu.site
+    url: giang-jess.frankvu.site
     method: GET
 
 status-website:
@@ -16,8 +16,8 @@ status-website:
   baseUrl: /frankvu-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: FrankVu Upptime
-  introTitle: "**FrankVu UppTime** is the uptime monitor and status page for FrankVu personal websites and projects."
-  introMessage: This uptime monitor and status page is from the open-source [Upptime](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages.
+  introTitle: "FrankVu's uptime monitor and status page."
+  introMessage: "This uptime monitor and status page is for FrankVu's personal websites and projects."
   navbar:
     - title: Status
       href: /
