@@ -1,42 +1,42 @@
 [
   {
     "name": "FrankVu",
-    "url": "frankvu.site",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://frankvu-personal-site.onrender.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/frankvu-personal-site.onrender.com.ico",
     "slug": "frank-vu",
-    "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
-    "time": 129,
-    "timeDay": 129,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "status": "up",
+    "uptime": "0.22%",
+    "uptimeDay": "0.22%",
+    "uptimeWeek": "0.22%",
+    "uptimeMonth": "0.22%",
+    "uptimeYear": "0.22%",
+    "time": 145,
+    "timeDay": 145,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 145,
     "dailyMinutesDown": {
-      "2025-05-06": 31
+      "2025-05-06": 37
     }
   },
   {
     "name": "Wedding Site",
-    "url": "giang-jess.frankvu.site",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://wedding-website-lphg.onrender.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/wedding-website-lphg.onrender.com.ico",
     "slug": "wedding-site",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 90,
-    "timeDay": 90,
-    "timeWeek": 90,
-    "timeMonth": 90,
-    "timeYear": 90,
+    "status": "up",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-05-06": 31
+      "2025-05-06": 37
     }
   }
 ]
