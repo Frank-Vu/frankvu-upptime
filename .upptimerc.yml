@@ -5,6 +5,7 @@ repo: frankvu-upptime # The name of this repository
 sites:
   - name: FrankVu
     url: https://frankvu-personal-site.onrender.com/
+    icon: https://www.frankvu.site/icons8-code.gif
   - name: Wedding Site
     url: https://wedding-website-lphg.onrender.com/
 
