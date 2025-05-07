@@ -8,6 +8,8 @@ sites:
     icon: https://www.frankvu.site/icons8-code.gif
   - name: Wedding Site
     url: https://wedding-website-lphg.onrender.com/
+  - name: Bookstore
+    url: https://bookstore.frankvu.site/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
