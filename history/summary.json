@@ -5,16 +5,16 @@
     "icon": "https://www.frankvu.site/icons8-code.gif",
     "slug": "frank-vu",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 250,
-    "timeDay": 196,
-    "timeWeek": 316,
-    "timeMonth": 282,
-    "timeYear": 250,
+    "uptimeYear": "99.93%",
+    "time": 253,
+    "timeDay": 364,
+    "timeWeek": 322,
+    "timeMonth": 278,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2025-05-06": 37
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wedding-website-lphg.onrender.com.ico",
     "slug": "wedding-site",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 231,
-    "timeDay": 234,
-    "timeWeek": 230,
-    "timeMonth": 253,
-    "timeYear": 231,
+    "uptimeYear": "99.93%",
+    "time": 232,
+    "timeDay": 301,
+    "timeWeek": 249,
+    "timeMonth": 246,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2025-05-06": 37
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 137,
-    "timeWeek": 211,
+    "time": 173,
+    "timeDay": 114,
+    "timeWeek": 183,
     "timeMonth": 175,
-    "timeYear": 174,
+    "timeYear": 173,
     "dailyMinutesDown": {}
   }
 ]
