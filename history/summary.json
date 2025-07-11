@@ -44,17 +44,17 @@
     "url": "https://bookstore.frankvu.site/",
     "icon": "https://icons.duckduckgo.com/ip3/bookstore.frankvu.site.ico",
     "slug": "bookstore",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 88,
-    "timeWeek": 191,
-    "timeMonth": 183,
-    "timeYear": 178,
+    "time": 177,
+    "timeDay": 108,
+    "timeWeek": 184,
+    "timeMonth": 182,
+    "timeYear": 177,
     "dailyMinutesDown": {}
   }
 ]
