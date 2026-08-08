@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 233,
-    "timeDay": 128,
-    "timeWeek": 159,
-    "timeMonth": 172,
-    "timeYear": 225,
+    "timeDay": 186,
+    "timeWeek": 172,
+    "timeMonth": 176,
+    "timeYear": 226,
     "dailyMinutesDown": {
       "2025-12-05": 31
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 234,
-    "timeDay": 148,
-    "timeWeek": 171,
-    "timeMonth": 168,
+    "timeDay": 192,
+    "timeWeek": 183,
+    "timeMonth": 171,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2025-12-05": 31
@@ -45,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bookstore.frankvu.site.ico",
     "slug": "bookstore",
     "status": "down",
-    "uptime": "14.34%",
+    "uptime": "14.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -54,9 +54,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 134,
+    "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-08-07": 114,
+      "2026-08-08": 37,
+      "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
@@ -419,8 +420,7 @@
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
-      "2025-08-09": 1440,
-      "2025-08-08": 1440
+      "2025-08-09": 1440
     }
   }
 ]
